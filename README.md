@@ -11,9 +11,17 @@
 - [MateAI](https://github.com/letmego2022/AI2ApiTest)：AI编写测试用例 ，编写测试脚本，支持自定义
 
 ## 技术栈
+## 技术栈
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=go)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-yellow?style=flat&logo=burpsuite)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat&logo=kali-linux)
+![Metasploit](https://img.shields.io/badge/-Metasploit-red?style=flat&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat&logo=nmap)
+![OWASP](https://img.shields.io/badge/-OWASP-black?style=flat&logo=owasp)
+
 
 ## 我的 GitHub 统计
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letmego2022&show_icons=true&hide_title=true&count_private=true)
