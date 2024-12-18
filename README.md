@@ -7,8 +7,8 @@
 - 🌱 正在深入学习开源贡献、协作与 DevOps 实践
 
 ## 我的项目
-- [项目名称](GitHub项目链接)：项目描述
-- [项目名称](GitHub项目链接)：项目描述
+- [ProSkill](https://github.com/letmego2022/ProSkill)：AI人力项目资源管理
+- [MateAI](https://github.com/letmego2022/AI2ApiTest)：AI编写测试用例 ，编写测试脚本，支持自定义
 
 ## 技术栈
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
