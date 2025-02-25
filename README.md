@@ -9,6 +9,7 @@
 ## 我的项目
 - [ProSkill](https://github.com/letmego2022/ProSkill)：AI人力项目资源管理
 - [MateAI](https://github.com/letmego2022/AI2ApiTest)：AI编写测试用例 ，编写测试脚本，支持自定义
+- [微信聊天辅助](https://github.com/letmego2022/WeChatBot):AI分析微信聊天，以及辅助内容
 
 ## 技术栈
 ## 技术栈
