@@ -1,55 +1,108 @@
-# 欢迎来到我的 GitHub 主页！ 👋
+# Hi, I'm [Your Name] 👋
 
-## 🌟 关于我  
-- 👨‍💻 **信息安全工程师 & AI 爱好者**  
-  专注于高效安全系统开发，融合 AI 与红蓝对抗技术，助力提升安全能力。  
-- 💻 精通 **Python**, **JavaScript**, **Go**，擅长快速构建工具与自动化脚本。  
-- 📊 热衷机器学习与红队渗透测试，对深度学习和对抗环境有持续探索。  
-- 🌱 当前活跃于开源贡献、团队协作及 DevOps 实践。
+### Bridging the gap between Information Security and Artificial Intelligence.
+
+I'm an Information Security Engineer with a deep passion for leveraging AI to solve complex security challenges. My work focuses on moving beyond traditional security paradigms by building intelligent, automated systems—from AI-driven penetration testing agents to intelligent data profiling platforms. My goal is to make security more proactive, efficient, and intelligent.
 
 ---
 
-## 🚀 精选项目
+### 🚀 What I'm Working On
 
-| 项目 | 描述 |
-|------|------|
-| [ProSkill](https://github.com/letmego2022/ProSkill) | AI 驱动的人力资源与项目资源管理系统 |
-| [MateAI](https://github.com/letmego2022/AI2ApiTest) | AI 智能生成测试用例与脚本，支持高度自定义 |
-| [WeChatBot](https://github.com/letmego2022/WeChatBot) | 微信聊天分析辅助工具，提升沟通效率 |
-| [AI Deep Persona Profiling System](https://github.com/letmego2022/AI-Deep-Persona-Profiling-System) | 从公开数据构建深度人物画像，评估信息暴露风险 |
-| [AI MCP 服务](https://github.com/letmego2022/ai_mcp_service) | 基于 AI 的多角色协同处理平台 |
-| [PT‑AI‑agent](https://github.com/letmego2022/PT-AI-agent) | AI 自动化渗透测试平台，提升红队效率 |
+Here are some of the projects I'm passionate about. They represent my journey in applying AI to real-world problems in security, development, and data analysis.
 
-> 更多项目尽在我的仓库，欢迎 star ⭐ & PR！
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛡️ PT-AI-Agent</h3>
+      <p align="center">
+        An autonomous AI agent that simulates penetration testing workflows. It leverages a multi-agent system to discover, exploit, and report web vulnerabilities, significantly enhancing red team efficiency.
+      </p>
+      <p align="center">
+        <a href="https://github.com/letmego2022/PT-AI-agent" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>AI Agents</code> <code>LLM</code> <code>Prompt Engineering</code> <code>Flask</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔎 AI Deep Persona Profiling System</h3>
+      <p align="center">
+        A system for building deep user profiles from fragmented public data. It utilizes LLMs to analyze data, assess information exposure risks, and generate structured intelligence reports.
+      </p>
+       <p align="center">
+        <a href="https://github.com/letmego2022/AI-Deep-Persona-Profiling-System" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>MongoDB</code> <code>LLM</code> <code>Flask</code> <code>Stateless API</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 MateAI - AI Test Case Generator</h3>
+      <p align="center">
+        An intelligent assistant for generating QA test cases from natural language. Streamlines the testing lifecycle by automatically creating structured test scripts (e.g., Gherkin) from business requirements.
+      </p>
+      <p align="center">
+        <a href="https://github.com/letmego2022/AI2ApiTest" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>Flask</code> <code>SSE</code> <code>Git Automation</code> <code>LLM</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤝 AI MCP Service</h3>
+      <p align="center">
+        A Multi-Role Collaborative Processing Platform based on AI. This framework allows different specialized AI agents to work together on a complex task, showcasing advanced agentic workflow design.
+      </p>
+      <p align="center">
+        <a href="https://github.com/letmego2022/ai_mcp_service" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
+        <code>Go</code> <code>AI Agents</code> <code>Microservices</code> <code>LLM</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> Find more in my repositories. Your stars ⭐ are greatly appreciated!
 
 ---
 
-## 🛠 技术栈
+### 🛠️ My Tech Stack & Toolkit
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
-![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=go)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-yellow?style=flat&logo=burpsuite)  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat&logo=kali-linux)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-red?style=flat&logo=metasploit)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat&logo=wireshark)  
-![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat&logo=nmap)  
-![OWASP](https://img.shields.io/badge/-OWASP-black?style=flat&logo=owasp)  
+Here are the technologies I'm proficient with and use regularly.
 
----
+| Languages | AI / ML | Security Toolkit | Databases & DevOps |
+|---|---|---|---|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![LangChain](https://img.shields.io/badge/-LangChain-2A3847?style=for-the-badge) | ![Metasploit](https://img.shields.io/badge/-Metasploit-DC2D19?style=for-the-badge&logo=metasploit&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-## 📊 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letmego2022&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
-## 📬 联系方式
+### 📊 My GitHub Stats
 
-欢迎通过以下方式交流与合作👇  
-- 💼 邮箱：`xf010101xf@gmail.com`  
-- 🔗 更多平台：[CSDN](https://blog.csdn.net/qq_26692927?type=blog)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letmego2022&show_icons=true&theme=dracula&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letmego2022&layout=compact&theme=dracula" alt="Top Langs" />
+</p>
 
 ---
 
-**期待与更多志同道合的开发者交流合作！**
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, collaboration opportunities, or just chatting about the future of AI in security.
+
+<p align="left">
+  <a href="mailto:xf010101xf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/qq_26692927?type=blog" target="_blank">
+    <img src="https://img.shields.io/badge/-CSDN-C30D23?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+</p>
