@@ -10,6 +10,9 @@
 - [ProSkill](https://github.com/letmego2022/ProSkill)：AI人力项目资源管理
 - [MateAI](https://github.com/letmego2022/AI2ApiTest)：AI编写测试用例 ，编写测试脚本，支持自定义
 - [微信聊天辅助](https://github.com/letmego2022/WeChatBot):AI分析微信聊天，以及辅助内容
+- [AI深度人物画像](https://github.com/letmego2022/AI-Deep-Persona-Profiling-System):AI对公开的互联网数据进行深度分析，构建推理性的人物画像。报告内容基于AI的理解和推断，并非绝对事实，其目的是评估信息暴露风险。
+- [AI MCP仓库](https://github.com/letmego2022/ai_mcp_service):
+- [PT-AI-agent](https://github.com/letmego2022/PT-AI-agent):AI驱动的自动化渗透测试
 
 ## 技术栈
 ## 技术栈
