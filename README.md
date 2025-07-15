@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Lewis 👋
 
 ### Bridging the gap between Information Security and Artificial Intelligence.
 
