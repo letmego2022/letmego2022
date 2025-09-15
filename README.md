@@ -16,18 +16,23 @@ Here’s a timeline of my major AI + Security projects:
 - **2024 Q2 — AI Deep Persona Profiling System**  
   LLM-powered user profiling platform for analyzing fragmented data & exposure risks.  
 
-- **2024 Q4 — MateAI (AI Test Case Generator)**  
+- **2024 Q4 — MateAI (AI Test Case Generator / AI2ApiTest)**  
   An intelligent assistant for generating structured QA test cases from requirements.  
 
-- **2025 Q3 — 🚀 ai2TestManP (Stage 2 Upgrade)**  
-  🔥 **Key Milestone**: Transition from a single Maker to a **parallel Maker Group** architecture.  
-  - Agents involved:  
-    1. **Positive Case Agent**  
-    2. **边界值分析师 (Boundary Value Analyst)**  
-    3. **错误场景推演师 (Error Guessing Specialist)**  
-    4. **状态机攻击手 (State Machine Attacker)**  
-  - Provides **diverse, multi-dimensional test case generation** (positive, boundary, error, and state-based attack cases).  
-  - Greatly improves **coverage, robustness, and reliability** of automated test case generation.  
+  **2025 Q3 — Stage 2 Upgrade: ai2TestManP**  
+  🔥 **Key Milestone**: Introduced **Maker-Checker architecture** to optimize test case generation.  
+  - **Maker Group (Parallel Agents)**:  
+    1. **Positive Case Agent** — generates positive/normal cases  
+    2. **边界值分析师 (Boundary Value Analyst)** — generates boundary value cases  
+    3. **错误场景推演师 (Error Guessing Specialist)** — generates error/exception cases  
+    4. **状态机攻击手 (State Machine Attacker)** — generates state machine & permission attack cases  
+  - **Checker Group**:  
+    - Verifies completeness, correctness, and redundancy of generated test cases  
+    - Ensures final test case set is **robust, comprehensive, and high-quality**  
+  - This upgrade transforms AI2ApiTest from a **single-agent generator** to a **multi-agent parallel system with quality assurance**  
+
+- **2025 Q3 — 🤝 AI MCP Service**  
+  A Multi-Role Collaborative Processing Platform based on AI. This framework allows different specialized AI agents to work together on a complex task, showcasing advanced agentic workflow design.
 
 ---
 
