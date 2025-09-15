@@ -31,7 +31,7 @@ Here’s a timeline of my major AI + Security projects:
     - Ensures final test case set is **robust, comprehensive, and high-quality**  
   - This upgrade transforms AI2ApiTest from a **single-agent generator** to a **multi-agent parallel system with quality assurance**  
 
-- **2025 Q3 — 🤝 AI MCP Service**  
+- **2025 Q3 — 🤖 MateAI - AI Test Case Generator**  
   A Multi-Role Collaborative Processing Platform based on AI. This framework allows different specialized AI agents to work together on a complex task, showcasing advanced agentic workflow design.
 
 ---
