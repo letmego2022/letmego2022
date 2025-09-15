@@ -6,6 +6,31 @@ I'm an Information Security Engineer with a deep passion for leveraging AI to so
 
 ---
 
+### 🗓️ Project Timeline (Highlights)
+
+Here’s a timeline of my major AI + Security projects:
+
+- **2023 Q4 — PT-AI-Agent**  
+  Autonomous AI penetration testing agent that simulates red team workflows.  
+
+- **2024 Q2 — AI Deep Persona Profiling System**  
+  LLM-powered user profiling platform for analyzing fragmented data & exposure risks.  
+
+- **2024 Q4 — MateAI (AI Test Case Generator)**  
+  An intelligent assistant for generating structured QA test cases from requirements.  
+
+- **2025 Q3 — 🚀 ai2TestManP (Stage 2 Upgrade)**  
+  🔥 **Key Milestone**: Transition from a single Maker to a **parallel Maker Group** architecture.  
+  - Agents involved:  
+    1. **Positive Case Agent**  
+    2. **边界值分析师 (Boundary Value Analyst)**  
+    3. **错误场景推演师 (Error Guessing Specialist)**  
+    4. **状态机攻击手 (State Machine Attacker)**  
+  - Provides **diverse, multi-dimensional test case generation** (positive, boundary, error, and state-based attack cases).  
+  - Greatly improves **coverage, robustness, and reliability** of automated test case generation.  
+
+---
+
 ### 🚀 What I'm Working On
 
 Here are some of the projects I'm passionate about. They represent my journey in applying AI to real-world problems in security, development, and data analysis.
