@@ -1,8 +1,12 @@
 # Hi, I'm Lewis 👋
 
-### Bridging the gap between Information Security and Artificial Intelligence.
+### Focused on AI + Penetration Testing.
 
-I'm an Information Security Engineer with a deep passion for leveraging AI to solve complex security challenges. My work focuses on moving beyond traditional security paradigms by building intelligent, automated systems—from AI-driven penetration testing agents to intelligent data profiling platforms. My goal is to make security more proactive, efficient, and intelligent.
+I'm an Information Security Engineer currently focused on two core directions: **AI systems** and **penetration testing**.
+（目前的技术重点：**AI** 与 **渗透测试**）
+I build agentic security workflows that can discover risks faster, reason about attack paths, and generate actionable reports.
+My recent work spans from autonomous AI pentest agents to multi-agent quality systems and deep profiling platforms.
+My goal is simple: make offensive security smarter, faster, and more scalable with AI.
 
 ---
 
@@ -38,7 +42,7 @@ Here’s a timeline of my major AI + Security projects:
 
 ### 🚀 What I'm Working On
 
-Here are some of the projects I'm passionate about. They represent my journey in applying AI to real-world problems in security, development, and data analysis.
+Here are some of the projects I'm passionate about. They represent my ongoing focus on applying AI to offensive security, testing automation, and intelligence analysis.
 
 <br>
 
