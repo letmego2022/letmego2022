@@ -38,6 +38,11 @@ Here’s a timeline of my major AI + Security projects:
 - **2025 Q3 — 🤖 MateAI - AI Test Case Generator**  
   A Multi-Role Collaborative Processing Platform based on AI. This framework allows different specialized AI agents to work together on a complex task, showcasing advanced agentic workflow design.
 
+- **2026 Q1 — EvoUI (Next-Gen AI-Driven Testing Platform)**  
+  A brand-new platform created to upgrade the previous AI-driven testing system.  
+  - Introduces **specialized memory** to retain domain context and improve long-horizon reasoning  
+  - Strengthens consistency, traceability, and quality across complex end-to-end testing workflows
+
 ---
 
 ### 🚀 What I'm Working On
@@ -98,6 +103,18 @@ Here are some of the projects I'm passionate about. They represent my ongoing fo
         <code>Go</code> <code>AI Agents</code> <code>Microservices</code> <code>LLM</code>
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 EvoUI - Next-Gen AI Testing Platform</h3>
+      <p align="center">
+        A new platform dedicated to upgrading previous AI-driven testing capabilities. EvoUI introduces specialized memory to preserve context and improve the depth and stability of intelligent test generation.
+      </p>
+      <p align="center">
+        <code>AI Agents</code> <code>Specialized Memory</code> <code>Long-Context Reasoning</code> <code>Testing Platform</code>
+      </p>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
