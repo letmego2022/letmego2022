@@ -111,6 +111,9 @@ Here are some of the projects I'm passionate about. They represent my ongoing fo
         A new platform dedicated to upgrading previous AI-driven testing capabilities. EvoUI introduces specialized memory to preserve context and improve the depth and stability of intelligent test generation.
       </p>
       <p align="center">
+        <a href="https://github.com/letmego2022/EvoUI" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
         <code>AI Agents</code> <code>Specialized Memory</code> <code>Long-Context Reasoning</code> <code>Testing Platform</code>
       </p>
     </td>
