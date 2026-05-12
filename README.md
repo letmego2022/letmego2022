@@ -38,6 +38,12 @@ Here’s a timeline of my major AI + Security projects:
 - **2025 Q3 — 🤖 MateAI - AI Test Case Generator**  
   A Multi-Role Collaborative Processing Platform based on AI. This framework allows different specialized AI agents to work together on a complex task, showcasing advanced agentic workflow design.
 
+- **2026 Q2 — 💬 weixinctrl-GUI (WeChat Control Console v2)**  
+  A local-first PyQt5 WeChat chat console with plugin extensibility, persistent chat logs, and Ollama-powered AI conversations.
+  - VS Code-style dark GUI with real-time message/log panels and system tray integration
+  - Plugin framework for weather, market quotes, exchange rates, daily summaries, and command-style tools
+  - Chat history context loading (up to 6 turns) with Markdown rendering and private local data storage
+
 - **2026 Q1 — EvoUI (Next-Gen AI-Driven Testing Platform)**  
   A brand-new platform created to upgrade the previous AI-driven testing system.  
   - Introduces **specialized memory** to retain domain context and improve long-horizon reasoning  
@@ -117,7 +123,18 @@ Here are some of the projects I'm passionate about. They represent my ongoing fo
         <code>AI Agents</code> <code>Specialized Memory</code> <code>Long-Context Reasoning</code> <code>Testing Platform</code>
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3 align="center">💬 weixinctrl-GUI</h3>
+      <p align="center">
+        A local-first PyQt5 WeChat control console with plugin extensions, chat log persistence, and Ollama-based AI conversation. Designed for practical daily automation while keeping data on-device.
+      </p>
+      <p align="center">
+        <a href="https://github.com/letmego2022/weixinctrl-GUI" target="_blank"><strong>View Project →</strong></a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>PyQt5</code> <code>Plugin System</code> <code>Ollama</code> <code>Local-First</code>
+      </p>
+    </td>
   </tr>
 </table>
 
