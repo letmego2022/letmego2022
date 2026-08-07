@@ -1,195 +1,252 @@
 <div align="center">
 
-# 👋 你好，我是 Lewis 刘德凯
+# 🕶️ Lewis Liu
 
-### AI 安全工程师 | AI Agent 开发者 | 渗透测试工程师
+## ⚡ AI Security Architect | Cyber Intelligence Builder | Agent Engineer
 
-**探索 AI 与安全工程融合，构建下一代智能安全系统**
+```
+╔══════════════════════════════════════╗
+║  SYSTEM: AI + SECURITY ONLINE        ║
+║  MODE  : BUILDING THE FUTURE         ║
+║  STATUS: HUMAN × AI COLLABORATION    ║
+╚══════════════════════════════════════╝
+```
 
-<p>
-  <img src="https://img.shields.io/badge/AI-Agent-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CyberSecurity-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-45B7D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-</p>
+> 探索 AI 与网络安全的下一代融合方式
+>
+> 构建能够感知、推理、行动的智能安全系统
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20AGENT-ONLINE-00ff99?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/CYBER%20SECURITY-ACTIVE-ff0055?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-KNOWLEDGE%20ENGINE-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PYTHON-ENGINEERING-yellow?style=for-the-badge&logo=python" />
 
 </div>
 
 ---
 
-## 🧑‍💻 关于我
+# 🧬 Identity Profile
 
-我是一名信息安全工程师，主要关注 **AI + 网络安全 + 企业智能化应用**。
-
-目前的技术方向包括：
-
-- 🤖 AI Agent / Multi-Agent 系统设计
-- 🔐 渗透测试与安全自动化
-- 🧠 RAG 知识库与企业 AI 应用
-- 🧪 AI 驱动的软件测试平台
-- 🔎 安全情报分析与数据挖掘
-
-我的目标是：
-
-> 让 AI 成为安全工程和企业自动化中的生产力工具。
+```yaml
+name: Lewis Liu
+role: Information Security Engineer
+focus:
+  - AI Agent System
+  - Cyber Security Automation
+  - Enterprise AI Application
+  - RAG Knowledge System
+  - Intelligent Testing Platform
+mission:
+  - Build AI-native security workflow
+  - Transform security engineering with AI
+```
 
 ---
 
-# 🚀 核心项目
-
-<table>
-<tr>
-<td width="50%">
+# ⚔️ Core Projects
 
 ## 🛡️ PT-AI-Agent
 
-AI 驱动的自动化渗透测试 Agent。
+> Autonomous AI Penetration Testing Framework
 
-探索 LLM 如何辅助：
+探索 LLM Agent 在安全领域的应用：
 
-- 漏洞发现
-- 攻击路径分析
-- Exploit 推理
-- 安全报告生成
+```
+Reconnaissance
+      ↓
+Vulnerability Analysis
+      ↓
+Attack Reasoning
+      ↓
+Security Report
+```
 
-技术栈：
+技术：
 
 `Python` `LLM Agent` `Prompt Engineering` `Security Automation`
 
-</td>
-<td width="50%">
+---
 
-## 🔎 AI Deep Persona Profiling
+## 🧠 AI Deep Persona Profiling
 
-基于 LLM 的安全情报分析平台。
+> Security Intelligence Analysis Platform
 
-能力包括：
+通过 AI 分析碎片化数据，构建结构化安全画像。
 
-- 多源信息分析
-- 用户画像构建
-- 信息暴露风险评估
-- 智能分析报告生成
+能力：
 
-技术栈：
+- 信息关联分析
+- 风险暴露评估
+- 智能情报生成
+- 多源数据融合
 
-`Python` `MongoDB` `LLM`
+技术：
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🧪 EvoUI AI 测试平台
-
-AI2ApiTest 的下一阶段演进。
-
-从单 Agent 测试生成升级为 Multi-Agent 协作系统：
-
-- Maker-Checker 架构
-- 正向测试生成
-- 边界值分析
-- 异常场景推演
-- 状态机攻击分析
-- 专业记忆系统
-
-技术栈：
-
-`Python` `Flask` `LLM` `Agent Workflow`
-
-</td>
-<td width="50%">
-
-## 📚 RMS AI Agent
-
-企业知识智能助手系统。
-
-基于 LLM + RAG 架构：
-
-- 企业制度知识问答
-- 知识库管理
-- Agent 路由
-- MCP 工具调用
-- 文档智能理解
-
-技术栈：
-
-`RAG` `MCP` `Vector Database` `LLM`
-
-</td>
-</tr>
-</table>
+`Python` `MongoDB` `LLM` `Data Intelligence`
 
 ---
 
-# 💬 本地 AI 助手
+## 🤖 EvoUI / AI2ApiTest
 
-## weixinctrl-GUI
+> Next Generation AI Testing System
 
-本地优先的 AI 桌面助手平台。
+从单 Agent 演进到 Multi-Agent 协作：
 
-特点：
+```
+              AI TEST SYSTEM
+                    |
+      ┌─────────────┼─────────────┐
+      ↓             ↓             ↓
+  Maker Agent   Analyzer     Checker Agent
+      ↓             ↓             ↓
+ Positive     Boundary     Quality Control
+ Cases        Reasoning
+```
 
-- PyQt5 桌面 GUI
-- 插件化扩展架构
-- 本地聊天记录
+能力：
+
+- Multi-Agent 测试生成
+- Maker-Checker 架构
+- 边界分析
+- 异常推演
+- 状态机攻击分析
+- 专业记忆系统
+
+技术：
+
+`Python` `Flask` `LLM` `Agent Workflow`
+
+---
+
+## 📡 RMS AI Agent
+
+> Enterprise Intelligence Assistant
+
+企业级 AI 知识系统：
+
+```
+Documents
+    ↓
+Knowledge Base
+    ↓
+RAG Engine
+    ↓
+AI Agent
+    ↓
+Answer / Action
+```
+
+能力：
+
+- 企业制度问答
+- RAG 检索增强
+- Agent Router
+- MCP 工具调用
+- 文档理解
+
+技术：
+
+`RAG` `MCP` `Vector Database` `LLM`
+
+---
+
+## 💻 weixinctrl-GUI
+
+> Local First AI Assistant
+
+本地 AI 助手平台：
+
+- PyQt5 桌面交互
+- 插件化架构
 - Ollama 本地模型
-- AI 自动化能力
+- 私有数据管理
 
-技术栈：
+技术：
 
 `Python` `PyQt5` `Ollama` `Plugin System`
 
 ---
 
-# 🛠️ 技术栈
+# 🧰 Arsenal
 
-## 🔐 安全工具
+## Cyber Security
 
-`Burp Suite` `Nuclei` `Xray` `Nessus` `AWVS` `OWASP ZAP`
+```
+Burp Suite
+Nuclei
+Xray
+Nessus
+AWVS
+OWASP ZAP
+```
 
-## 🤖 AI 技术
+## AI Engineering
 
-`LLM` `RAG` `LangChain` `MCP` `Agent Workflow` `Embedding`
+```
+LLM
+RAG
+MCP
+LangChain
+Embedding
+Multi-Agent
+Memory System
+```
 
-## 💻 开发语言
+## Engineering
 
-`Python` `Go` `JavaScript` `SQL`
-
-## ☁️ 工程基础
-
-`Docker` `Linux` `Git` `MongoDB` `PostgreSQL`
+```
+Python
+Go
+FastAPI
+Flask
+Docker
+Linux
+PostgreSQL
+MongoDB
+```
 
 ---
 
-# 📖 当前研究方向
+# 🌌 Research Frontier
 
-目前持续探索：
+当前探索：
 
-- AI Agent 工程化
-- Multi-Agent 协作模式
+```
+AI Agent
+    ↓
+Multi-Agent Collaboration
+    ↓
+Memory System
+    ↓
+Enterprise Intelligence
+    ↓
+AI Native Security
+```
+
+关注方向：
+
+- AI Agent 架构
 - MCP 生态
-- RAG / Knowledge Graph
+- PageIndex / RAG 技术
+- 企业知识智能化
 - AI 安全自动化
-- 企业级 AI 应用落地
 
 ---
 
-# 📊 GitHub 数据
+# 📊 GitHub Status
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=letmego2022&show_icons=true&theme=dracula&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=letmego2022&show_icons=true&theme=radical&hide_title=true" />
 </p>
 
 ---
 
-# 📫 联系我
+<div align="center">
 
-欢迎交流：
+## ⚡ BUILD THE FUTURE WITH AI
 
-- AI Security
-- Agent System
-- Cybersecurity Automation
-- Enterprise AI Application
+⭐ Welcome to my laboratory.
 
-⭐ 如果我的项目对你有帮助，欢迎 Star！
+</div>
